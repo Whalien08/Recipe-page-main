@@ -66,6 +66,7 @@ ol li::marker {
     color: hsl(14, 45%, 36%);
     font-weight: bold;
 }
+```
 
 **3. Edge-to-Edge Mobile Design:**
 I utilized CSS media queries to remove padding and border-radiuses on smaller screens. This allowed the image and main container to seamlessly stretch across the entire width of a mobile device:
@@ -82,13 +83,13 @@ I utilized CSS media queries to remove padding and border-radiuses on smaller sc
         margin: 0;
     } 
 }
+```
 
-**Continued development**
+###Continued development
 
 In future projects, I plan to continue refining my responsive design skills, focusing on building mobile-first structures and utilizing more fluid layouts. I also want to dive deeper into CSS Grid to complement my knowledge of Flexbox.
 
-Author
+##Author
 
-    Frontend Mentor - @yourusername
-
-    Coded by - Mithra Xavier"# Recipe-page-main" 
+- Frontend Mentor - [Whalien08](https://www.frontendmentor.io/profile/Whalien08)
+- Coded by - Mithra Xavier
