@@ -1,0 +1,121 @@
+.attribution { font-size: 0.6875rem; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+    background-color: hsl(30, 54%, 90%);
+    display: flex;
+    align-items: center;   
+    justify-content: center;  
+    min-height: 100vh;        
+    margin: 0;           
+    flex-direction: column; 
+    padding: 1.25rem;      
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.sub1 {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;   
+    position: relative; 
+    width: 100%;
+    max-width: 43rem;     
+    padding: 0.9375rem;    
+}
+
+.sub11 {
+    margin: 1.25rem;       
+}
+
+.img1 {
+    height: auto;
+    width: 100%;
+    border-radius: 2rem;
+    display: block;
+}
+
+h3 {
+    color: hsl(14, 45%, 36%);
+    margin: 1.25rem;      
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: hsl(14, 45%, 36%);
+    margin: 1.25rem;        
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pink {
+    background-color: hsl(334, 47%, 93%);
+    border-radius: 0.625rem; 
+    padding: 0.3125rem;     
+    margin: 1.25rem;        
+}
+
+table {
+    border-collapse: collapse; 
+    width: 100%;              
+    margin: 1.25rem;       
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+tr {
+    border-bottom: 1px solid hsl(0, 0%, 90%); 
+}
+
+tr:last-child {
+    border-bottom: none; 
+}
+
+td {
+    padding: 0.9375rem 0;    
+}
+
+p {
+    margin: 1.25rem;        
+}
+
+ol li::marker {
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+ul li, ol li {
+    padding-left: 0.9375rem;   
+    margin-bottom: 0.9375rem;  
+    padding-right: 0.9375rem; 
+}
+
+hr {
+    width: 90%;
+    border-top: 1px solid hsl(0, 0%, 90%); 
+    margin: auto;
+}
+
+span {
+    font-weight: bold;
+}
+
+@media (max-width: 30rem) { 
+    body {
+        padding: 0;                               
+        background-color: hsl(0, 0%, 100%);    
+    }
+
+    .sub1 {
+        width: 100%;                              
+        border-radius: 0;  
+        padding: 0; 
+    }
+    .img1 {
+        border-radius: 0; 
+        margin:0;
+    }   
+}
