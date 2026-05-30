@@ -24,13 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-*(Note: Add the path to your project screenshot here once you take one!)*
-![](./assets/images/screenshot.png)
+<img width="2628" height="3138" alt="Screenshot_29-5-2026_215132_127 0 0 1" src="https://github.com/user-attachments/assets/577678af-0292-4c0f-9533-aabc2f65151e" />
 
 ### Links
 
 - Solution URL: [Add your Frontend Mentor solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://whalien08.github.io/Recipe-page-main/)
 
 ## My process
 
