@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-<img width="2628" height="3138" alt="Screenshot_29-5-2026_215132_127 0 0 1" src="https://github.com/user-attachments/assets/577678af-0292-4c0f-9533-aabc2f65151e" />
+<img width="2628" height="3329" alt="Screenshot_30-5-2026_14501_127 0 0 1" src="https://github.com/user-attachments/assets/37fc8177-cf87-4588-9431-9ae4d9229078" />
+
 
 ### Links
 
