@@ -101,7 +101,7 @@ ol li::marker {
 }
 
 ul li, ol li {
-    padding-left: 0.9375rem;   
+    padding-inline-start: 0.9375rem;
     margin-bottom: 0.9375rem;  
     padding-right: 0.9375rem; 
     color: hsl(30, 10%, 34%);
